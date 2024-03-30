@@ -1,0 +1,14 @@
+.DS_Store
+# IntelliJ
+*.iml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/compiler.xml
+/out/
+# Java class files
+*.class
+# Generated files
+bin/
+out/
